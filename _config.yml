@@ -1,6 +1,6 @@
-title:              Muay Thai Meditationen
+title:              Muay Thai
 email:              v-networks@posteo.de
-description:        Gedanken und Lektionen
+description:        Meditationen
 author:             V
 baseurl:            "/mt_meditations"
 url:                "https://v-glb.github.io/mt_meditations"
@@ -11,6 +11,7 @@ github_username:    v-glb
 # facebook_username:  StartBootstrap
 # instagram_username:  
 # linkedin_username:
+xing_username: Vadim_Glebow
 
 # Add your google-analytics ID here to activate google analytics
 # google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
