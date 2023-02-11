@@ -6,8 +6,8 @@ baseurl:            "/mt_meditations/"
 url:                "https://v-glb.github.io"
 
 # Social Profiles
-github_username:    v-glb
-xing_username: Vadim_Glebow
+# github_username:    v-glb
+# xing_username:      Vadim_Glebow
 
 # Build settings
 markdown:           kramdown
