@@ -6,15 +6,8 @@ baseurl:            "/mt_meditations/"
 url:                "https://v-glb.github.io"
 
 # Social Profiles
-# twitter_username:   SBootstrap
 github_username:    v-glb
-# facebook_username:  StartBootstrap
-# instagram_username:  
-# linkedin_username:
 xing_username: Vadim_Glebow
-
-# Add your google-analytics ID here to activate google analytics
-# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
