@@ -2,7 +2,7 @@ title:              Muay Thai
 email:              v-networks@posteo.de
 description:        Meditationen
 author:             V
-#baseurl:            "/mt_meditations/"
+baseurl:            "/mt_meditations/"
 url:                "http://muaythai-meditationen.net"
 
 # Social Profiles
