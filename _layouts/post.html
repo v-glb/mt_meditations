@@ -36,7 +36,7 @@ layout: default
 
         <hr>
 
-        <div class="clearfix">
+        <div class="clearfix mb-5">
 
           {% if page.previous.url %}
           <a class="btn btn-primary float-left" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Voriger<span class="d-none d-md-inline">
@@ -49,8 +49,9 @@ layout: default
 
         </div>
 
+        {% include welcomments/comments.html website_id = "jllXCzoG76iFnyrj0wVW5LWvy" %}
+
       </div>
     </div>
   </div>
 
-  {% include welcomments/comments.html website_id = "jllXCzoG76iFnyrj0wVW5LWvy" %}
