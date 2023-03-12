@@ -41,6 +41,13 @@
             &:hover {
                 color: fade-out($white, .2);
             }
+
+            >svg {
+                &:focus,
+                &:hover {
+                    color: fade-out($white, .2);
+                }
+            }
         }
 
         .navbar-nav {
@@ -87,6 +94,14 @@
                 &:focus,
                 &:hover {
                     color: $primary;
+                }
+                >svg {
+                    color: #212529;
+
+                    &:focus,
+                    &:hover {
+                        color: $primary;
+                    }
                 }
             }
 
